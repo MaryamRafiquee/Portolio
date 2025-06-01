@@ -22,6 +22,7 @@ Welcome to my data portfolio! This is where I provide an overview of my projects
 |---|---|---|
 |:desktop_computer: [HR Analytics Portfolio Project](https://github.com/MaryamRafiquee/HR-Analysis/tree/main) | Power BI | This project is a comprehensive analysis of HR data, visualized through a dashboard built using Power BI. The project aims to uncover key insights into employee performance, retention, and overall company HR metrics to help organizations make data-driven decisions |
 |:oncoming_automobile: [Road Accident Data Analysis and Dashboard](https://github.com/MaryamRafiquee/Road-Accident-Data-Analysis/tree/main) | Power BI | This project provides a comprehensive analysis of road accident data, aimed at identifying patterns, trends, and insights related to road safety and accident occurrences. Using this data, an interactive dashboard has been developed to allow users to explore and visualize key aspects of the dataset effectively |
+|:pizza: [Pizza Sales Report Dashboard](https://github.com/MaryamRafiquee/Pizza-Sales-Report) | Power BI | This interactive Power BI dashboard presents an insightful analysis of pizza sales between January 15 and December 15. The goal was to transform raw data into actionable business intelligence by identifying key trends in order patterns, revenue, and sales performance across categories and sizes. |
 
 ***
  ##  **Excel Projects**
